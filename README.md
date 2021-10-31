@@ -1,2 +1,2 @@
 # overthewire
-solutions
+writeups
